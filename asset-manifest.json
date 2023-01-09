@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/landing-page-ondeck/static/css/main.6ca45533.css",
+    "main.js": "/landing-page-ondeck/static/js/main.2f0a2a3e.js",
+    "static/media/Hero Image.png": "/landing-page-ondeck/static/media/Hero Image.06223ac206496e01e5e6.png",
+    "static/media/AlternativeTo Logo.svg": "/landing-page-ondeck/static/media/AlternativeTo Logo.7f874c630a1428352cb9cd4e56b1db63.svg",
+    "static/media/Spotify Logo.svg": "/landing-page-ondeck/static/media/Spotify Logo.4b391b85bdb55bb8c11fad4ba18a4c16.svg",
+    "static/media/Logo.svg": "/landing-page-ondeck/static/media/Logo.f3ef66095c938b927d925d4f1c9f581f.svg",
+    "static/media/Walmart Logo.svg": "/landing-page-ondeck/static/media/Walmart Logo.95c12f7a0d2c7e8091a0ff7d85162f53.svg",
+    "static/media/Shopify Logo.svg": "/landing-page-ondeck/static/media/Shopify Logo.1dcd0dc173105a55eb5971c9fa96c222.svg",
+    "static/media/Netflix Logo.svg": "/landing-page-ondeck/static/media/Netflix Logo.6366facd20bf5a0882050c28aaec7e4d.svg",
+    "index.html": "/landing-page-ondeck/index.html",
+    "static/media/Spense_Icon.svg": "/landing-page-ondeck/static/media/Spense_Icon.19a878593c41973d439c58465d6fa188.svg",
+    "static/media/Gradie_Icon.svg": "/landing-page-ondeck/static/media/Gradie_Icon.bfed378c4def071393299ee0dfb808b9.svg",
+    "static/media/Fiber_Icon.svg": "/landing-page-ondeck/static/media/Fiber_Icon.406edfc9038a183a0e88b7a3d57fadf5.svg",
+    "static/media/Capterra Logo.svg": "/landing-page-ondeck/static/media/Capterra Logo.9a6e352cdf0ba71369592254b14b4c3a.svg",
+    "static/media/Menu.svg": "/landing-page-ondeck/static/media/Menu.e01f1151b99b8b7098dbbb95b4286fdb.svg",
+    "static/media/Close.svg": "/landing-page-ondeck/static/media/Close.03d55b0d2375d012ad4877dedfff7895.svg",
+    "main.6ca45533.css.map": "/landing-page-ondeck/static/css/main.6ca45533.css.map",
+    "main.2f0a2a3e.js.map": "/landing-page-ondeck/static/js/main.2f0a2a3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ca45533.css",
+    "static/js/main.2f0a2a3e.js"
+  ]
+}
