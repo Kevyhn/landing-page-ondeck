@@ -1,0 +1,149 @@
+.main {
+  position: relative;
+  max-width: 1150px;
+  margin: auto;
+  overflow-x: hidden;
+}
+
+.header {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 10px 0;
+}
+
+.logo {
+  position: relative;
+  height: 100%;
+}
+
+.logo img {
+  width: 130px;
+}
+
+.items {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.items li {
+  list-style: none;
+  font-size: 18px;
+  color: #6c6c6c;
+  margin: 0 15px;
+  cursor: pointer;
+}
+
+.items li:hover {
+  opacity: 0.8;
+}
+
+.menu-btn {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.menu-btn img {
+  width: 30px;
+}
+
+.register span {
+  text-decoration: none;
+  font-size: 18px;
+  color: #6c6c6c;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.modal {
+  transition: 300ms;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.modal-open {
+  visibility: visible;
+  opacity: 1;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  margin-top: 80px;
+}
+
+.hero-img img {
+  width: 360px;
+  margin-left: 50px;
+}
+
+.hero h1 {
+  font-size: 60px;
+  margin-bottom: 10px;
+}
+
+.hero .yellow {
+  color: #ffc107;
+}
+
+.hero p {
+  margin-bottom: 15px;
+  font-size: 18px;
+  color: #6c6c6c;
+}
+
+.rating {
+  width: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+
+.rating h4 {
+  color: #6c6c6c;
+}
+
+.rating .icons img {
+  margin: 0 8px;
+}
+
+@media (max-width: 1250px) {
+  .main { padding: 0 50px; }
+}
+
+@media (max-width: 1150px) {
+  .main { padding-top: 30px; }
+  .items{ display: none; }
+
+  .register { display: none; }
+
+  .menu-btn { display: flex; }
+}
+
+@media (max-width: 900px) {
+  .hero-img { display: none; }
+
+  .content { margin-top: 40px; }
+}
+
+@media (max-width: 550px) {
+  .hero h1 { font-size: 40px; }
+
+  .rating { width: auto; display: block; }
+
+  .rating .icons img { margin-top: 5px; }
+
+  .rating .icons img:first-child { margin: 0; }
+}
+
+@media (max-width: 350px) {
+  .hero h1 { font-size: 30px; }
+}
