@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/landing-page-ondeck/static/css/main.6ca45533.css",
-    "main.js": "/landing-page-ondeck/static/js/main.2f0a2a3e.js",
+    "main.css": "/landing-page-ondeck/static/css/main.53540399.css",
+    "main.js": "/landing-page-ondeck/static/js/main.0db42174.js",
     "static/media/Hero Image.png": "/landing-page-ondeck/static/media/Hero Image.06223ac206496e01e5e6.png",
     "static/media/AlternativeTo Logo.svg": "/landing-page-ondeck/static/media/AlternativeTo Logo.7f874c630a1428352cb9cd4e56b1db63.svg",
     "static/media/Spotify Logo.svg": "/landing-page-ondeck/static/media/Spotify Logo.4b391b85bdb55bb8c11fad4ba18a4c16.svg",
@@ -16,11 +16,11 @@
     "static/media/Capterra Logo.svg": "/landing-page-ondeck/static/media/Capterra Logo.9a6e352cdf0ba71369592254b14b4c3a.svg",
     "static/media/Menu.svg": "/landing-page-ondeck/static/media/Menu.e01f1151b99b8b7098dbbb95b4286fdb.svg",
     "static/media/Close.svg": "/landing-page-ondeck/static/media/Close.03d55b0d2375d012ad4877dedfff7895.svg",
-    "main.6ca45533.css.map": "/landing-page-ondeck/static/css/main.6ca45533.css.map",
-    "main.2f0a2a3e.js.map": "/landing-page-ondeck/static/js/main.2f0a2a3e.js.map"
+    "main.53540399.css.map": "/landing-page-ondeck/static/css/main.53540399.css.map",
+    "main.0db42174.js.map": "/landing-page-ondeck/static/js/main.0db42174.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ca45533.css",
-    "static/js/main.2f0a2a3e.js"
+    "static/css/main.53540399.css",
+    "static/js/main.0db42174.js"
   ]
 }
